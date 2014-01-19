@@ -1,0 +1,12 @@
+body{
+background-image:url('backgrounds/start.png');
+background-repeat:no-repeat;
+background-position:center; 
+}
+
+#wrap{
+text-align: center;
+margin-top: 80px;
+
+
+}
